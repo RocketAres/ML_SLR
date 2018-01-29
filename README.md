@@ -1,2 +1,2 @@
 # ML_SLR
-Machin learning Sign language Recognition
+Sign language Recognition using machine learning.
